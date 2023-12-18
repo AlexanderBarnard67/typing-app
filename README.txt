@@ -1,0 +1,4 @@
+For my python application I created an application that tracks how fast a user can type. For it you run the app, it will output a few lines, one of them being the line that you are going to be writing and the final line telling you to press enter when you are ready. Once you press enter you will be given a new line to type the exact sentence that was provided above. If you type it incorrectly it will tell you how long it took and also where your errors were.
+
+GitHub Repository: https://github.com/AlexanderBarnard67/typing-app.git
+Docker Repository: https://hub.docker.com/r/alex87stick/typing-app/tags
